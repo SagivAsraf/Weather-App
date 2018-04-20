@@ -18,8 +18,10 @@ The code is calling 2 http request.
 1 -> to Google maps for getting the exactly location on earth. 
 2 -> to https://darksky.net/dev/register -> weather site that supply my app the weather. (you have to register to the site if you want to use it).
 
-I add an image that show how its work!
+In addition , as you can see at the code I used at "axios" -> a library of node.js
+and yargs, also a library.
 
+I add an image that show how its work!
 
 Enjoy :)
 

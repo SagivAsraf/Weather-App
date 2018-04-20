@@ -21,7 +21,7 @@ The code is calling 2 http request.
 In addition , as you can see at the code I used at "axios" -> a library of node.js
 and yargs, also a library.
 
-I add an image that show how its work!
+I add an image that show how it works!
 
 Enjoy :)
 
